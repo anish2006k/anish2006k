@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @anish2006k
-- 👀 I’m interested in web developing, Scripting with python and teach people python
-- 🌱 I’m currently learning in grade 9 at Badmal, Orissa, India 
-- 💞️ I’m looking to collaborate on Web developing
-- 📫 You can reach me via my phone number +919437150822, or via my gmail id mishraanish209@gmail.com or via my website https://makeawishblogs.in
+<center><h1> Hi I am Anish Mishra  </h1></center>
+
+- Hi, I’m @anish2006k
+- I’m passionate in Web developing and computer programming  
+- Mail: mishraanish209@gmail.com
+- Phone: 7008657641
+- Website: https://makeawishblogs.in/
+- 
 
 <!---
 anish2006k/anish2006k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
