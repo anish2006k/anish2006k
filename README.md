@@ -10,7 +10,7 @@
 - Always dark theme
 - I develop desktop apps with java and python
 - I have a wide variety of knowledge of libraries of python
-- Instagram: @kaunanish
+- Instagram: <a href="https://www.instagram.com/kaunanish/">@kaunanish</a>
 
 <!---
 anish2006k/anish2006k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
